@@ -1,0 +1,3 @@
+Gui texture size must be power of 2! Otherwise it will be scaled.
+
+text.png - offset is currently hardcoded to 3,8
